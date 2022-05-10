@@ -1,0 +1,20 @@
+.header {
+    text-align: start;
+    margin: 20px;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: antiquewhite;
+    margin: auto;
+    max-width: 900px;
+}
+
+.title {
+    color: cadetblue;
+}
+
+.img-div {
+    margin: auto;
+    max-width: 500;
+}
